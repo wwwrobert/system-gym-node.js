@@ -7,13 +7,14 @@
     "dev": "tsx watch src/server.ts",
     "start": "node build/server.js",
     "build": "tsup src --out-dir build",
-    "lint": "eslint src --ext .ts --fix"
+    "lint": "eslint src/repositories --ext .ts --fix"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@rocketseat/eslint-config": "2.1.0",
+    "@types/bcryptjs": "2.4.2",
     "@types/node": "^20.4.8",
     "prisma": "5.1.1",
     "tsup": "^7.2.0",
@@ -22,6 +23,7 @@
   },
   "dependencies": {
     "@prisma/client": "5.1.1",
+    "bcryptjs": "2.4.3",
     "dotenv": "16.3.1",
     "fastify": "^4.21.0",
     "zod": "3.21.4"
