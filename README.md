@@ -43,6 +43,8 @@ COMANDOS DOCKER ->
 
 # apagar banco = docker rm api-solid-pg
 
+# parar os containers = docker compose stop
+
 ==============================================================================================================================================
 
 COMANDOS PRISMA -> 
