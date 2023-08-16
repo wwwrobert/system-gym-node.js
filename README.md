@@ -5,15 +5,15 @@ Gympass style app.
 ## RF ->
 
 - [x] Deve ser possível se cadastrar; 
-- [x] Deve ser possível se autenticar; 
+- [ ] Deve ser possível se autenticar; 
 - [ ] Deve ser possível obter o perfil de um usuário logado;
-- [x] Deve ser possível obter o número de check-ins realizados pelo usuário;
+- [ ] Deve ser possível obter o número de check-ins realizados pelo usuário;
 - [ ] Deve ser possível o usuário obter seu hitórico de check-ins;
 - [ ] Deve ser possível o usúario buscar academias próximas;
-- [x] Deve ser possível o usuário buscar academias pelo nome;
-- [x] Deve ser possível o usuário realizar check-in em uma academia;
+- [ ] Deve ser possível o usuário buscar academias pelo nome;
+- [ ] Deve ser possível o usuário realizar check-in em uma academia;
 - [ ] Deve ser possível validar o check-in de um usuário;
-- [x] Deve ser possível cadastrar uma academia;
+- [ ] Deve ser possível cadastrar uma academia;
 
 ## RN ->
 
