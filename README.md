@@ -6,12 +6,12 @@ Gympass style app.
 
 - [x] Deve ser possível se cadastrar; 
 - [x] Deve ser possível se autenticar; 
-- [ ] Deve ser possível obter o perfil de um usuário logado;
+- [x] Deve ser possível obter o perfil de um usuário logado;
 - [ ] Deve ser possível obter o número de check-ins realizados pelo usuário;
 - [ ] Deve ser possível o usuário obter seu hitórico de check-ins;
 - [ ] Deve ser possível o usúario buscar academias próximas;
 - [ ] Deve ser possível o usuário buscar academias pelo nome;
-- [ ] Deve ser possível o usuário realizar check-in em uma academia;
+- [x] Deve ser possível o usuário realizar check-in em uma academia;
 - [ ] Deve ser possível validar o check-in de um usuário;
 - [ ] Deve ser possível cadastrar uma academia;
 
@@ -42,6 +42,8 @@ COMANDOS DOCKER ->
 # startar um banco já criado = docker start api-solid-pg 
 
 # apagar banco = docker rm api-solid-pg
+
+# outro jeito simples de criar o banco = docker compose up -d
 
 # parar os containers = docker compose stop
 
