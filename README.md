@@ -18,7 +18,7 @@ Gympass style app.
 ## RN ->
 
 - [x] O usúario não deve se cadastrar com e-mail duplicado;
-- [ ] O usúario não pode fazer check-in duas vezes no mesmo dia ;
+- [x] O usúario não pode fazer check-in duas vezes no mesmo dia ;
 - [ ] O usúario não pode fazer check-in se não estiver perto (100m) de uma academia;
 - [ ] O check-in só pode ser validado até 20 minutos depois de criado;
 - [ ] O check-in só pode ser validado por administradores;
