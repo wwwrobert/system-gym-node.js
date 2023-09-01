@@ -11,7 +11,7 @@
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "test:ui": "vitest --ui",
-    "lint": "eslint src/repositories/in-memory --ext .ts --fix"
+    "lint": "eslint src/utils --ext .ts --fix"
   },
   "keywords": [],
   "author": "",
